@@ -15,10 +15,6 @@ _Read this article in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
 
-<details open>
-	
-	<summary>[Click/tap here to expand/collapse the language list]</summary>
-
 _🌐 List of languages_
 
 **Sorted by:** `A-Z`
@@ -35,15 +31,9 @@ Translations are done with Google Translate due to limited or no support for the
 
 Due to maintenance issues, many translations are out of date and are using an outdated version of this `README` article file. A translator is needed. Also, as of April 9th 2021, it is going to take me a while to get all the new links working.
 
-</details>
-
 ***
 
 ## Index
-
-<details open>
-	
-	<summary>[Click/tap here to expand/collapse the Index]</summary>
 
 [00.0 - Title](#Degoogling---Degoogle-your-life)
 
@@ -144,8 +134,6 @@ Due to maintenance issues, many translations are out of date and are using an ou
 [25.0 - Footer](#Footer)
 
 > [25.9 - EOF](#EOF)
-
-</details>
 
 ***
 
